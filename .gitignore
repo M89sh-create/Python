@@ -14,5 +14,6 @@
 /Scripts
 /tcl
 /vcruntime140.dll
-/vcruntime140_1.dll/DLLs/
+/vcruntime140_1.dll
+/DLLs/
 /Doc/
